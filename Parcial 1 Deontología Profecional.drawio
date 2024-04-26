@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T23:20:47.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="upKkCiAgho9K8bVsHvi0" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T00:28:43.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gDUli-njx-ls9ek5Of9A" version="24.3.0" type="github">
   <diagram name="Página-1" id="jvUbDSnbE1fdLhawKNMB">
-    <mxGraphModel dx="819" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-1" value="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-1" value="Sócrates" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-2" value="Utilitaristas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -118,14 +118,26 @@
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-43" value="Obras" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="270" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-44" target="5eZ_OWJN1cZH5B9Uckm3-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;Su motivación fue la búsqueda de la verdad a través del dialogo y el cuestionamiento.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-45" target="5eZ_OWJN1cZH5B9Uckm3-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-45" value="&lt;font face=&quot;Times New Roman&quot;&gt;Maximizar la felicidad y disminuir el sufrimiento, evaluar actos mediante las consecuencias que produce.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="490" width="160" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-46" target="5eZ_OWJN1cZH5B9Uckm3-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;El valor moral de un acto radica en hacer el bien no por inclinación sino por deber, criticando la razón entre otras cosas.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-47" target="5eZ_OWJN1cZH5B9Uckm3-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;En que consiste el bien y la felicidad del hombre y para ello, analiza la naturaleza humana.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="160" height="100" as="geometry" />
@@ -142,17 +154,101 @@
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-56" value="Su motivación fue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="440" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-57" target="5eZ_OWJN1cZH5B9Uckm3-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-57" value="&lt;font face=&quot;Times New Roman&quot;&gt;Algunos de los conceptos principales incluyen el método de preguntas y respuestas (mayéutica), la ironía y la virtud.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="650" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="660" width="160" height="100" as="geometry" />
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-58" target="5eZ_OWJN1cZH5B9Uckm3-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="640" width="160" height="100" as="geometry" />
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-58" value="&lt;font face=&quot;Times New Roman&quot;&gt;Los utilitaristas desarrollaron conceptos como la utilidad(la medida de la felicidad producida por una acción), la mayor felicidad y el consecuencialismo.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="650" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-59" target="5eZ_OWJN1cZH5B9Uckm3-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-59" value="Introdujo conceptos como el imperativo categórico, la autonomía y la buena voluntad." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="650" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-60" target="5eZ_OWJN1cZH5B9Uckm3-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5eZ_OWJN1cZH5B9Uckm3-60" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dentro de los conceptos mas importante de Aristóteles se incluyen la ética de la virtud, el florecimiento del ser humano o la buena vida (eudemonía) y la idea de teleología.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="650" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-65" value="Conceptos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-66" value="Conceptos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-67" value="Conceptos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-68" value="Conceptos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-69" target="5eZ_OWJN1cZH5B9Uckm3-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-69" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sócrates veía la verdad se encontraba en el interior de cada uno y podría ser entendida como algo alcanzable a través del dialogo y la autorreflexión.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="820" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-70" target="5eZ_OWJN1cZH5B9Uckm3-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;Aristóteles creía que la verdad se basa en el conocimiento y en el alma, una relaciona entre metafísica y lógica.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="820" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-71" target="5eZ_OWJN1cZH5B9Uckm3-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-71" value="&lt;font face=&quot;Times New Roman&quot;&gt;Para Kant la verdad depende en el objetivo de acción, entendía la verdad como algo alcanzable a través de la razón pura.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="820" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5eZ_OWJN1cZH5B9Uckm3-72" target="5eZ_OWJN1cZH5B9Uckm3-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;Los utilitaristas entendían la verdad como algo que se determina por las consecuencias de las acciones en términos de felicidad y sufrimiento.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="820" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-77" value="La Verdad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-78" value="La Verdad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-79" value="La Verdad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-80" value="La Verdad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="770" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-81" value="&lt;font face=&quot;Times New Roman&quot;&gt;La búsqueda de la verdad y sabiduría universal era su forma de ética, ya que teniendo estas dos se podría ser virtuoso.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="990" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-82" value="&lt;font face=&quot;Times New Roman&quot;&gt;Aborda la virtud y el florecimiento humano, la vida feliz es la vida dedicada a la búsqueda de la sabiduría.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="990" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-83" value="&lt;font face=&quot;Times New Roman&quot;&gt;No ve a la ética como un objetivo de felicidad sino como una satisfacción del deber moral, saber que obramos por deber y no por conveniencia.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="990" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-84" value="&lt;font face=&quot;Times New Roman&quot;&gt;La ética se basa en que lo bueno es lo que me es util, lo que me da felicidad, y por ende no me produce dolor.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="990" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-90" value="La ética" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="940" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-91" value="La ética" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="940" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-92" value="La ética" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="940" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5eZ_OWJN1cZH5B9Uckm3-93" value="La ética" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="940" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
